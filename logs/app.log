@@ -1,0 +1,372 @@
+20:09:46.184 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing text into paragraphs
+20:09:46.193 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+20:09:46.193 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+20:09:46.200 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Это
+20:09:46.204 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: первый
+20:09:46.204 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: абзац
+20:09:46.204 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: с
+20:09:46.204 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: длинным
+20:09:46.204 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: словом
+20:09:46.205 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: превысокомногорассматриваемый.
+20:09:46.205 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+20:09:46.205 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: В
+20:09:46.206 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: этом
+20:09:46.206 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложении
+20:09:46.206 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: есть
+20:09:46.206 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: выражение
+20:09:46.206 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 2+2*2=6.
+20:09:46.206 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+20:09:46.208 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: А
+20:09:46.208 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: это
+20:09:46.208 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: короткое
+20:09:46.208 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложение.
+20:09:46.208 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+20:09:46.209 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Второй
+20:09:46.209 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: абзац
+20:09:46.209 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: начинается
+20:09:46.209 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: тут.
+20:09:46.209 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+20:09:46.209 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Здесь
+20:09:46.209 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: будет
+20:09:46.209 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: выражение
+20:09:46.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 10-5=5.
+20:09:46.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+20:09:46.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: В
+20:09:46.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: третьем
+20:09:46.211 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: абзаце
+20:09:46.211 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: три
+20:09:46.211 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложения.
+20:09:46.211 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+20:09:46.211 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Второе
+20:09:46.211 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложение
+20:09:46.211 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: содержит
+20:09:46.212 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: выражение
+20:09:46.212 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 3*4=12.
+20:09:46.212 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+20:09:46.212 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: И
+20:09:46.212 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: вот
+20:09:46.212 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: последнее
+20:09:46.213 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложение
+20:09:46.213 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: в
+20:09:46.213 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: этом
+20:09:46.213 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: абзаце.
+22:22:17.547 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing text into paragraphs
+22:22:17.553 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:22:17.553 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:22:17.564 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Это
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: первый
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: абзац
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: с
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: длинным
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: словом
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: превысокомногорассматриваемый.
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: В
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: этом
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложении
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: есть
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: выражение
+22:22:17.565 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 2+2*2=6.
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: А
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: это
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: короткое
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложение.
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Второй
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: абзац
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: начинается
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: тут.
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Здесь
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: будет
+22:22:17.568 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: выражение
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 10-5=5.
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: В
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: третьем
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: абзаце
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: три
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложения.
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Второе
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложение
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: содержит
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: выражение
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 3*4=12.
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: И
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: вот
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: последнее
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: предложение
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: в
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: этом
+22:22:17.570 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: абзаце.
+22:24:06.194 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing text into paragraphs
+22:24:06.194 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.194 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: First
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: a
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: long
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: word
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: supercalifragilisticexpialidocious.
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Another
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentence
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: here.
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Second
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph.
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 2+2=4
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: true.
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Third
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: three
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentences.
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: This
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: second.
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: And
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: this
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.210 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: third.
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing text into paragraphs
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: First
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: a
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: long
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: word
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: supercalifragilisticexpialidocious.
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Another
+22:24:06.261 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentence
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: here.
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Second
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph.
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 2+2=4
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: true.
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Third
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: three
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentences.
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: This
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: second.
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: And
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: this
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.268 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: third.
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing text into paragraphs
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: First
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: a
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: long
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: word
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: supercalifragilisticexpialidocious.
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Another
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentence
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: here.
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Second
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph.
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 2+2=4
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: true.
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Third
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: three
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentences.
+22:24:06.274 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.283 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: This
+22:24:06.283 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.283 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: second.
+22:24:06.283 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.283 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: And
+22:24:06.283 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: this
+22:24:06.283 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.283 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: third.
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing text into paragraphs
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: First
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: a
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: long
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: word
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: supercalifragilisticexpialidocious.
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Another
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentence
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: here.
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Second
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph.
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 2+2=4
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: true.
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Third
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: three
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentences.
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: This
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: second.
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: And
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: this
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.292 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: third.
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing text into paragraphs
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: First
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: a
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: long
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: word
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: supercalifragilisticexpialidocious.
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Another
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentence
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: here.
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Second
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph.
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: 2+2=4
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: true.
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing paragraph into sentences
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: Third
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: paragraph
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: with
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: three
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: sentences.
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: This
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: second.
+22:24:06.301 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing sentence into lexemes
+22:24:06.306 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: And
+22:24:06.306 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: this
+22:24:06.306 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: is
+22:24:06.306 [main] INFO  parser.lt.esdc.task2.TextParser - Parsing lexeme: third.
+22:32:14.853 [main] ERROR lt.esdc.task2.Main - Error processing file: \src\main\resources\sample.txt
+java.nio.file.NoSuchFileException: \src\main\resources\sample.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3268) ~[?:?]
+	at java.nio.file.Files.readString(Files.java:3346) ~[?:?]
+	at java.nio.file.Files.readString(Files.java:3305) ~[?:?]
+	at lt.esdc.task2.TextProcessor.parseText(TextProcessor.java:34) ~[classes/:?]
+	at lt.esdc.task2.Main.main(Main.java:22) [classes/:?]
+22:32:53.234 [main] ERROR lt.esdc.task2.Main - Error processing file: \src\main\resources\sample.txt
+java.nio.file.NoSuchFileException: \src\main\resources\sample.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.nio.file.Files.readAllBytes(Files.java:3268) ~[?:?]
+	at java.nio.file.Files.readString(Files.java:3346) ~[?:?]
+	at java.nio.file.Files.readString(Files.java:3305) ~[?:?]
+	at lt.esdc.task2.TextProcessor.parseText(TextProcessor.java:34) ~[classes/:?]
+	at lt.esdc.task2.Main.main(Main.java:22) [classes/:?]
+22:34:23.452 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing text into paragraphs
+22:34:23.452 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing paragraph into sentences
+22:34:23.452 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing sentence into lexemes
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: Это
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: первый
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: абзац
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: с
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: длинным
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: словом
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: превысокомногорассматриваемый.
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing sentence into lexemes
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: В
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: этом
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: предложении
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: есть
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: выражение
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: 2+2*2=6.
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing sentence into lexemes
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: А
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: это
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: короткое
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: предложение.
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing sentence into lexemes
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: Второй
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: абзац
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: начинается
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: тут.
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing sentence into lexemes
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: Здесь
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: будет
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: выражение
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: 10-5=5.
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing sentence into lexemes
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: В
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: третьем
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: абзаце
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: три
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: предложения.
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing sentence into lexemes
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: Второе
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: предложение
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: содержит
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: выражение
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: 3*4=12.
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing sentence into lexemes
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: И
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: вот
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: последнее
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: предложение
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: в
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: этом
+22:34:23.468 [main] INFO  lt.esdc.task2.parser.TextParser - Parsing lexeme: абзаце.
